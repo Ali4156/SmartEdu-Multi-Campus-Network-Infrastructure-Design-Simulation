@@ -1,2 +1,11 @@
 # SmartEdu-Multi-Campus-Network-Infrastructure-Design-Simulation
-computer networks project
+Computer Networks project
+## Table of conent
+-[topology]
+-[ip schema]
+-[documentation]
+-[dhcp n ospf config]
+-
+
+### Tool used
+cisco packet tracer
